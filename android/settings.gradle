@@ -1,0 +1,3 @@
+rootProject.name = 'AndroidWifiReactNative'
+
+include ':app'
